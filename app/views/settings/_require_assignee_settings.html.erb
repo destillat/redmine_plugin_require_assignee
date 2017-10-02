@@ -1,0 +1,4 @@
+<p>
+  <%= check_box_tag('settings[enabled]', '1', @settings['enabled'].to_s == '1') %>
+  <label><%= l(:message_require_assignee) %></label>
+</p>
