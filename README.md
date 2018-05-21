@@ -15,7 +15,7 @@
 In Redmine folder,
 ```bash
 cd plugins
-git clone https://github.com/destillat/redmine_plugin_require_assignee
+git clone https://github.com/destillat/redmine_plugin_require_assignee require_assignee
 ```
 Finally restart Redmine.
 
